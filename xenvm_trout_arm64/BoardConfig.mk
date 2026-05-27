@@ -40,7 +40,6 @@ BOARD_BOOTCONFIG += androidboot.lcd_density=160
 BOARD_BOOTCONFIG += androidboot.hardware.hwcomposer=xenvm_trout_arm64
 BOARD_BOOTCONFIG += androidboot.hardware.hwcomposer.mode=client
 BOARD_BOOTCONFIG += androidboot.hardware.hwcomposer.display_finder_mode=drm
-BOARD_BOOTCONFIG += androidboot.boot_devices=33000000.pcie
 BOARD_BOOTCONFIG += androidboot.openthread_node_id=1
 
 # Reuse trout androidboot properties
